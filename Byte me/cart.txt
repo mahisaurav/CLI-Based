@@ -1,0 +1,6 @@
+Coffee,1
+Burger,1
+Coffee,1
+Coffee,1
+Burger,1
+Salad,1
